@@ -1,33 +1,61 @@
-# analyses-ecommerce-sales-data-created-interacted-dashboard-using-powerbi
+# Analyses E-commerce Sales Data Created Interacted Dashboard Using Power-BI
 <div align="center"><img src="https://github.com/prashgedam/analyses-ecommerce-sales-data-created-interacted-dashboard-using-powerbi/blob/main/Analyses%20Ecommerce%20Sales%20Data-1.png" width="900"/></div>
-This Power BI project is a comprehensive and interactive dashboard created to analyze and visualize e-commerce sales data. It provides a detailed overview of various key aspects:
 
-    Sales Performance Metrics:
-        Visual representation of sales trends over time, including revenue, units sold, and average order value (AOV).
-        Segmentation of sales by product categories, highlighting top-performing and underperforming items.
+Here's a detailed project description for creating an interactive dashboard using Power BI with sales data derived from order and detail tables, employing various visualizations like stacked bar charts, donut charts, cards, and more:
+## Project Outline:
 
-    Customer Insights:
-        Demographic analysis showcasing customer distribution by age, location, and purchasing behavior.
-        Cohort analysis to understand customer retention rates and lifetime value (LTV).
+# Data Collection and Preparation:
+        Import the order and detail tables into Power BI, establishing a relationship between them.
+        Cleanse and transform the data, handling missing values and ensuring consistency.
 
-    Marketing and Campaign Analysis:
-        Evaluation of the effectiveness of marketing campaigns and channels in driving sales.
-        ROI analysis for different promotional strategies implemented.
+# Dashboard Design:
+        Create a visually appealing and user-friendly interface in Power BI Desktop.
 
-    Inventory and Product Analysis:
-        Inventory management insights, including stock levels, turnover rates, and popular products.
-        Product performance analysis to identify high-margin items and opportunities for optimization.
+# Visualizations:
 
-Key Features:
+:ballot_box_with_check: a. Stacked Bar Chart:
+        Visualize sales performance by category or time period.
+        Show total sales, stacked by product categories or months, to analyze trends and performance.
 
-    Dynamic filters and slicers enabling users to drill down into specific time frames, product categories, or customer segments.
-    Interactive visuals such as charts, graphs, and heatmaps for intuitive data exploration.
-    Integration of multiple data sources for a comprehensive view of the e-commerce landscape.
+ :ballot_box_with_check: b. Donut Chart:
+        Display the distribution of sales by product category.
+        Highlight the proportion of sales contributed by each category using the donut chart.
 
-Data Sources Used:
+ :ballot_box_with_check: c. Card Visualizations:
+        Utilize cards to show critical KPIs such as total sales revenue, average order value, or total number of orders.
+        Represent these key metrics prominently on the dashboard.
 
-    Sales Orders Dataset
-    Customer Information Dataset
-    Product Inventory Dataset
+ :ballot_box_with_check: d. Line Chart:
+        Showcase sales trends over time (daily, monthly, yearly).
+        Analyze seasonal patterns or growth trends using this visualization.
 
-This Power BI project amalgamates these data sources to deliver actionable insights, aiding in strategic decision-making, enhancing sales performance, and optimizing various facets of e-commerce operations.
+:ballot_box_with_check: e. Table or Matrix Visualizations:
+        Detail the order information like order ID, customer details, shipping information, etc.
+        Show a matrix displaying products sold with details like quantity, unit price, and discounts.
+
+## Interactivity and Filters:
+        Implement slicers or filters allowing users to interact with the data dynamically.
+        Enable filtering by date range, product category, customer segment, etc., to drill down into specific insights.
+
+ ##   Calculations and Metrics:
+        Create measures for essential calculations like total sales, profit margins, average values, etc.
+        Calculate metrics that drive business decisions, like customer acquisition cost or customer lifetime value.
+
+##    Testing and Validation:
+        Validate the accuracy of visualizations by cross-referencing data with the original tables.
+
+ ##   Deployment and Sharing:
+        Publish the dashboard to Power BI Service.
+        Share the dashboard with stakeholders, ensuring appropriate access permissions are set.
+
+ ##   Feedback and Iteration:
+        Gather feedback from users and stakeholders to improve or refine the dashboard.
+
+  ##  Maintenance and Updates:
+        Regularly update the dashboard with new data and make adjustments to reflect changing business needs.
+
+ ##   Documentation and Training:
+
+    Provide documentation or training sessions to users on how to effectively use the dashboard for decision-making.
+
+By incorporating these visualizations and functionalities, the Power BI dashboard can offer comprehensive insights into e-commerce sales data, empowering users to make informed decisions and drive business growth.
