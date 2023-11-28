@@ -1,5 +1,5 @@
 # analyses-ecommerce-sales-data-created-interacted-dashboard-using-powerbi
-
+<div align="center"><img src="https://github.com/prashgedam/analyses-ecommerce-sales-data-created-interacted-dashboard-using-powerbi/blob/main/Analyses%20Ecommerce%20Sales%20Data.pdf" width="900"/></div>
 This Power BI project is a comprehensive and interactive dashboard created to analyze and visualize e-commerce sales data. It provides a detailed overview of various key aspects:
 
     Sales Performance Metrics:
