@@ -1,4 +1,4 @@
-# Analyses E-commerce Sales Data Created Interacted Dashboard Using Power-BI
+# Analyses E-commerce Sales Data Created Interacted Dashboard Using Power BI
 <div align="center"><img src="https://github.com/prashgedam/analyses-ecommerce-sales-data-created-interacted-dashboard-using-powerbi/blob/main/Analyses%20Ecommerce%20Sales%20Data-1.png" width="900"/></div>
 
 Here's a detailed project description for creating an interactive dashboard using Power BI with sales data derived from order and detail tables, employing various visualizations like stacked bar charts, donut charts, cards, and more:
