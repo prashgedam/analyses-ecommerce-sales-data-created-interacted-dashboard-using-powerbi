@@ -30,7 +30,7 @@ Here's a detailed project description for creating an interactive dashboard usin
         Analyze seasonal patterns or growth trends using this visualization.
 
 :ballot_box_with_check: e. Table or Matrix Visualizations:
-        Detail the order information like order ID, customer details, shipping information, etc.
+        Detail the order information like order ID, customer details, shipping information, etc
         Show a matrix displaying products sold with details like quantity, unit price, and discounts.
 
 ## Interactivity and Filters:
