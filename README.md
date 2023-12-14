@@ -35,7 +35,7 @@ Here's a detailed project description for creating an interactive dashboard usin
 
 ## Interactivity and Filters:
         Implement slicers or filters allowing users to interact with the data dynamically.
-        Enable filtering by date range, product category, customer segment, etc., to drill down into specific insights.
+        Enable filtering by date range, product category, customer segment, etc to drill down into specific insights.
 
  ##   Calculations and Metrics:
         Create measures for essential calculations like total sales, profit margins, average values, etc.
