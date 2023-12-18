@@ -6,7 +6,7 @@ Here's a detailed project description for creating an interactive dashboard usin
 
 # Data Collection and Preparation:
         Import the order and detail tables into Power BI, establishing a relationship between them.
-        Cleanse and transform the data, handling missing values & ensuring consistency.
+        Cleanse and transform the data, handling missing values and ensuring consistency.
 
 # Dashboard Design:
         Create a visually appealing and user-friendly interface in Power BI Desktop.
